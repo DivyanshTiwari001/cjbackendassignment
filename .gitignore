@@ -1,0 +1,48 @@
+# Go binary files
+/bin
+/*.exe
+/*.out
+/*.test
+/*.prof
+
+# Dependency directories
+/vendor/
+
+# Go workspace
+/.vscode/
+/.idea/
+/*.vscode/
+
+# Build artifacts
+/build/
+dist/
+
+# Go modules and Go sum files
+/go.sum
+/go.mod
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Coverage output
+*.cov
+
+# IDE files
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE folders and files
+/.idea/
+/.vscode/
+/*.sublime-project
+/*.sublime-workspace
+
+# Mac OS specific
+*.DS_Store
